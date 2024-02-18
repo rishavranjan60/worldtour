@@ -1,0 +1,27 @@
+
+.footer{
+    background: rgb(0, 101, 219);
+    background: linear-gradient(90deg, rgb(0, 101, 219) 50%, rgba(0, 212, 255, 1) 100%);
+   
+  
+  }
+  .footer .row .col-4 form input {
+    border: 1px solid white;
+    border-radius: 0px;
+  }
+
+  .footer .row .col-4 form .btn {
+    background-color: #0099ff;
+    color: white;
+    border: 0px solid white;
+    border-radius: 0px;
+  }
+  .footer .row .col-4 form .btn:hover{
+    background-color: white;
+    color: #0099ff;
+  }
+
+
+.link{
+    color: white;
+  }

@@ -1,0 +1,36 @@
+
+.service {
+  padding-top: 20px;
+}
+.card{
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.card .card-body{
+  text-align: center;
+}
+
+.card .card-body h4 {
+  color: blue;
+}
+
+.page-heading{
+  text-align: center;
+  color: #808080;
+  margin-top: 20px;
+}
+
+.page-info{
+  text-align: center;
+  color: #34A1F6;
+  font-size: 20px;
+}
+.card-text {
+  color: #34A1F6;
+}
+
+.card .card-body .btn {
+  background-color: #DE3163;
+}

@@ -1,0 +1,54 @@
+
+.page-heading{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
+
+
+.about {
+    padding: 3%;
+    background-color: #CCCCFF;
+}
+.about .row .col-md-6{
+    background-color: #008080;
+    padding: 50px;
+    text-align: center;
+    align-items: center;
+}
+.about .row .text-about{
+    background-color: #DE3163;
+    padding: 5% 8%;
+}
+.about .row .text-about h2{
+    margin-bottom: 20px;
+}
+.about .row .text-about p{
+    margin-bottom: 20px;
+}
+.about .row .text-about .btn {
+    background-color: white;
+    color: #DE3163;
+}
+
+.about .row .col-md-6 .row .abt-1 {
+    background-color: white;
+    padding: 20%;
+    position: relative;
+    left: 20%;
+    top: 30%;
+}
+@media (max-width: 768px){
+    .about .row .col-md-6 .row .abt-1 {
+        background-color: white;
+        padding: 20%;
+        position: relative;
+        left: 0%;
+        top: 0%;
+    }
+
+}
+
+.about .row .col-md-6 .row .abt-1 h2{
+    color: #DE3163;
+}

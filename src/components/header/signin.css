@@ -1,0 +1,40 @@
+.full-page{
+    width: 100%;
+    height: 100%;
+    background-color: #6495ED;
+    color: white;
+
+}
+form .btn{
+    background-color: #DE3163;
+    color: white;
+    margin-bottom: 10px;
+}
+form .btn:hover{
+    background-color: #6495ED;
+    color: blue;
+    box-shadow: 3px 3px 3px #DE3163, 3px 3px 3px #DE3163;
+}
+
+.full-page .card {
+    background-color: #008080;
+    box-shadow: 5px 5px 5px white, 5px 5px 5px white;
+    width: 25%;
+}
+.card h2 {
+    color: #DE3163;
+    text-align: center;
+    font-weight: bold;
+}
+form {
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+p .signup:hover {
+   background-color: white;
+   color: blue;
+}
