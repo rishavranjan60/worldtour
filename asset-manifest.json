@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/worldtour/static/css/main.d0ef7fce.css",
+    "main.js": "/worldtour/static/js/main.a88e2778.js",
+    "static/js/787.fc7db1ef.chunk.js": "/worldtour/static/js/787.fc7db1ef.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/worldtour/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/nepal2.jpeg": "/worldtour/static/media/nepal2.aef2ce6994d959dc6beb.jpeg",
+    "static/media/fontawesome-webfont.eot": "/worldtour/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/worldtour/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/DUBAI.jpg": "/worldtour/static/media/DUBAI.043416c8f605364e9e16.jpg",
+    "static/media/KOLKATA.jpg": "/worldtour/static/media/KOLKATA.4a213b06115fcfacc591.jpg",
+    "static/media/LONDON.jpg": "/worldtour/static/media/LONDON.57654afd42796cf3ae23.jpg",
+    "static/media/tajmahal.jpeg": "/worldtour/static/media/tajmahal.93935aaca0424ba1e342.jpeg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/worldtour/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/PHUKET.jpg": "/worldtour/static/media/PHUKET.5ccb76351168e7a6ecc5.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/worldtour/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/amazon1.jpeg": "/worldtour/static/media/amazon1.97f38dfe71e43e875a11.jpeg",
+    "static/media/PAMUKALLE.jpg": "/worldtour/static/media/PAMUKALLE.2d2e7ce8a03b7de4339b.jpg",
+    "static/media/rome1.jpeg": "/worldtour/static/media/rome1.92227507ba241ffb4347.jpeg",
+    "static/media/nepal5.jpeg": "/worldtour/static/media/nepal5.8cc66e4c6e872fb0a813.jpeg",
+    "index.html": "/worldtour/index.html",
+    "main.d0ef7fce.css.map": "/worldtour/static/css/main.d0ef7fce.css.map",
+    "main.a88e2778.js.map": "/worldtour/static/js/main.a88e2778.js.map",
+    "787.fc7db1ef.chunk.js.map": "/worldtour/static/js/787.fc7db1ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ef7fce.css",
+    "static/js/main.a88e2778.js"
+  ]
+}
