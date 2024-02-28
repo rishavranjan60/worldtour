@@ -24,14 +24,12 @@
   /* navbar style start  */
   
   .main-nav {
-    background-color: #454545;
-    overflow: hidden;
     width: 100%;
     height: 70px;
     display: grid;
     grid-template-columns: 4% 1fr 2fr 1fr 4%;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
-      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+      rgba(250, 200, 200, 0.3) 0px 30px 60px -30px;
 
 
   }
@@ -91,7 +89,7 @@
   }
   
   .menu-link ul li .nav-links {
-   color: white;
+   color: black;
    font-size: 20px;
    text-transform: capitalize;
   }
@@ -145,6 +143,7 @@
     .main-nav {
       height: 8rem;
       grid-template-columns: 2rem 3fr 3fr 1fr 2rem;
+      
     }
   
     .logo,
@@ -255,6 +254,7 @@
     .main-nav {
       height: 6rem;
       grid-template-columns: 1rem 4fr 1fr 1fr 1rem;
+      
     }
   
     .logo,
@@ -271,6 +271,7 @@
       display: flex;
       justify-self: end;
       align-items: center;
+      
     }
   
     .social-media .hamburger-menu {
