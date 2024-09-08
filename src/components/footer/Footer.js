@@ -7,7 +7,7 @@ const Footer = () => {
     <div>
         <footer className='footer text-white bg-primary'>
         <div className='container'>
-            <footer className='py-5'>
+            <div className='py-5'>
                 <div className='row'>
                     <div className='col-3'>
                         <h4>WORLD TOUR</h4>
@@ -63,7 +63,7 @@ const Footer = () => {
                 </ul>
             </div>
 
-        </footer>
+        </div>
         </div>
         </footer>
       

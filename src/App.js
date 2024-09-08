@@ -14,7 +14,8 @@ import Footer from './components/footer/Footer';
 
 function App() {
   return (
-    <div><BrowserRouter>
+    <div>
+      <BrowserRouter>
       <Navbar />
       <Routes>
            <Route exact path='/' Component={Home} />
@@ -24,7 +25,6 @@ function App() {
            <Route exact path='portfolio' Component={Portfolio} />
            <Route exact path='signin' Component={Signin} />
            <Route exact path='signup' Component={Signup} />
-
       </Routes>
       <Footer />
       </BrowserRouter>

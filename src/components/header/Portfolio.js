@@ -38,7 +38,7 @@ const Portfolio = ()=> {
                     <div class="card p-3">
                             <div class="card-body text-center">
                                 <i className='fa fa-users fa-4x mb-4 text-primary'></i>
-                                <h5 class="card-title mb-3 fs-4 fw-bold">User Exprience</h5>
+                                <h5 class="card-title mb-3 fs-4 fw-bold">User Experience</h5>
                                 <p class="card-text lead">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                 
                             </div>
