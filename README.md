@@ -1,3 +1,38 @@
+# World Tour
+
+A React travel frontend with pages and components for destinations, services, contact and sign-in/sign-up screens. Built with Create React App, React Router and Bootstrap.
+
+## Quick start
+
+With Node.js and npm installed, run from the repository root:
+
+```bash
+npm ci
+npm start
+```
+
+Open the local URL printed by the development server (normally http://localhost:3000).
+
+## Checks
+
+```bash
+npm test -- --watchAll=false
+npm run build
+```
+
+The production build is written to `build/`.
+
+## Source layout
+
+- `src/components/header/`: navigation and page components.
+- `src/components/services/`: service components.
+- `src/components/footer/`: footer.
+- `public/assets/images/`: public image assets.
+
+The screens alone do not establish that authentication or booking is backed by a working server.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
