@@ -1,5 +1,5 @@
 import React from 'react'
-import Contact from './Contact';
+import { Link } from 'react-router-dom';
 import './about.css';
 
 const About = ()=> {
@@ -24,7 +24,7 @@ const About = ()=> {
               cornerstone of democracy and free expression. 
               We’re making progress — and hope you’ll join our growing community.</p>
 
-              <a href="#" className='btn'>Learn more... </a>
+              <Link to="/contact" className='btn'>Learn more... </Link>
           </div>
         </div>
       </section>

@@ -28,7 +28,7 @@ const Footer = () => {
                             <h5>Subscribe to our NewsLetter</h5>
                             <p>Monthly digest of whats new and exciting from us </p>
                             <div className='d-flex w-100 gap-2'>
-                                <label htmlFor="newsletter1" className='visually-hidden'>Email Address</label>
+                                <label htmlFor="newsletter" className='visually-hidden'>Email Address</label>
                                 <input type="text" id='newsletter' className='form-control' placeholder='email address' />
                                 <button className='btn btn-outline-primary px-4' type='button'>Subscribe</button>
                             </div>
@@ -41,24 +41,24 @@ const Footer = () => {
                 <p>@ 2023 Company, Inc All rights reserved.</p>
                 <ul className='list-unstyled d-flex'>
                     <li className='ms-3'>
-                        <a href="#" className='link-light' to="#">
+                        <span className='link-light'>
                             <i className='fa fa-facebook fa-2x'></i>
-                        </a>
+                        </span>
                     </li>
                     <li className='ms-3'>
-                        <a href="#" className='link-light' to="#">
+                        <span className='link-light'>
                             <i className='fa fa-instagram fa-2x'></i>
-                        </a>
+                        </span>
                     </li>
                     <li className='ms-3'>
-                        <a href="#" className='link-light' to="#">
+                        <span className='link-light'>
                             <i className='fa fa-twitter fa-2x'></i>
-                        </a>
+                        </span>
                     </li>
                     <li className='ms-3'>
-                        <a href="#" className='link-light' to="#">
+                        <span className='link-light'>
                             <i className='fa fa-facebook fa-2x'></i>
-                        </a>
+                        </span>
                     </li>
                 </ul>
             </div>

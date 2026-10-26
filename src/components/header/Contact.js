@@ -1,8 +1,7 @@
 import React, { useState } from 'react'
 import './contact.css'
-import { FaMobile, FaEnvelope } from 'react-icons/fa';
+import { FaMobile } from 'react-icons/fa';
 import { CiLocationOn } from "react-icons/ci";
-import { FaMessage } from "react-icons/fa6";
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 

@@ -16,7 +16,7 @@ const Navbar = ()=> {
       <h3 className="NavLogo"> <Link to="/" className="logo-link">WorldTour</Link> </h3>
       </div>
 
-      <div className= {showMediaIcons ? "menu-link mobile-menu-link" : "menu-link"}>
+      <div id="primary-menu" className= {showMediaIcons ? "menu-link mobile-menu-link" : "menu-link"}>
         <ul className="navbar-header-name">
           <li className="nav-item"> <NavLink to="/" className="nav-links">Home</NavLink> </li>
           <li className="nav-item"> <NavLink to="/about" className="nav-links">About</NavLink> </li>
@@ -36,9 +36,9 @@ const Navbar = ()=> {
 
         
         <div className="hamburger-menu">
-          <a href="#" onClick={() => setShowMediaIcons(!showMediaIcons)} >
+          <button type="button" className="menu-toggle" aria-label="Toggle navigation" aria-controls="primary-menu" aria-expanded={showMediaIcons} onClick={() => setShowMediaIcons(!showMediaIcons)} >
             <GiHamburgerMenu />
-          </a>
+          </button>
         </div>
 
       </div>
